@@ -46,7 +46,7 @@ CODE_DEMO/
 ### Step 1: Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/your-repo.git
+git clone https://github.com/poojan-kaneriya/DL_Code_Demo.git
 cd your-repo
 ```
 
