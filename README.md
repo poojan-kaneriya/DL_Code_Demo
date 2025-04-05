@@ -92,7 +92,7 @@ python trainer/evaluate.py
 python inference/predict.py
 ```
 
-## Using the Jupyter Notebook
+## Using the Jupyter Notebook (Recommended)
 
 To explore interactively:
 
